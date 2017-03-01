@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Resistencias</string>
+    <string name="resitencia">VALOR DE LA RESISTENCIA</string>
+    <string name="bandas6">6 BANDAS</string>
+    <string name="bandas5">5 BANDAS</string>
+    <string name="bandas4">4 BANDAS</string>
+</resources>

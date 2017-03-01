@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="Prácticas">Practicas (60%)</string>
+    <string name="AVANCE1">Avance 1 (5%)</string>
+    <string name="AVANCE2">Avance 2 (7%)</string>
+    <string name="AVANCE3">Avance 3 (8%)</string>
+    <string name="ENTREGA">Entrega final (20%)</string>
+</resources>
